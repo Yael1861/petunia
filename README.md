@@ -16,3 +16,4 @@ a futuro se espera:
 * que diga mediante t2s el estado de la ruta
 * y que tenga listas de reproduccion guardadas
 * que utilice varios idiomas
+* que vibre por cada aviso de kilometraje (personalizado)
