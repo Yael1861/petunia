@@ -17,3 +17,4 @@ a futuro se espera:
 * y que tenga listas de reproduccion guardadas
 * que utilice varios idiomas
 * que vibre por cada aviso de kilometraje (personalizado)
+* tener acceso a la música para poder seleccionar playlists en caso de que no se quiera usar el radio
